@@ -1,3 +1,9 @@
+# Course
+![plan](https://github.com/HowardLiYH/pair-trading/assets/60827239/b80ce80d-1fc6-48ba-a3b3-604750829b59)
+
+
+
+
 # pair-trading
 ![pair-trading](https://www.cryptostache.com/wp-content/uploads/2018/01/why-are-trading-pairs-important-cryptocurrency-how-to.jpg)
 
@@ -26,3 +32,4 @@
 ## Step 2 Further Learning
 - Understand How reinforcement learning will help with the execution
 - Learn reinforcement learning if in need
+
