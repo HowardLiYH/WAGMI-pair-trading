@@ -33,4 +33,9 @@
 - Understand How reinforcement learning will help with the execution
 - Learn reinforcement learning if in need
     - Google "reinforcement learning in pairs trading" for essays and articles
-- [Others Method](https://github.com/HowardLiYH/pairs_trading)
+- Other Repos
+    - [Pairs Trading guide from Medium](https://github.com/financialnoob/pairs_trading)
+    - [HFT Model with IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
+    - [Pair Trading by Kid Quant](https://github.com/KidQuant/Pairs-Trading-With-Python)
+    - [Pair Trading Thesis for EE and CE Degree](https://github.com/simaomsarmento/PairsTrading)
+    - [Pair Trading with DYDX Bot](https://github.com/chickensmitten/dydx-bot)
