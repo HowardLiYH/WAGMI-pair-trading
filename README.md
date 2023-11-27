@@ -33,4 +33,4 @@
 - Understand How reinforcement learning will help with the execution
 - Learn reinforcement learning if in need
     - Google "reinforcement learning in pairs trading" for essays and articles
-
+- [Others Method](https://github.com/HowardLiYH/pairs_trading)
